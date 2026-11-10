@@ -19,6 +19,15 @@
 * Libraries used: [JavaFX](https://openjfx.io/), [Jackson](https://github.com/FasterXML/jackson),
   [JUnit5](https://github.com/junit-team/junit5).
 
+### Notable uses of AI
+
+* OpenAI Codex was used to assist with selected code changes and bug fixes, including phone-number formatting
+  support, student and guardian name validation, and academic-level validation.
+* OpenAI Codex assisted with writing and updating unit and integration tests, diagnosing test failures, and
+  correcting test fixtures.
+* OpenAI Codex was also used to review code and parser behaviour, investigate potential bugs, and check
+  consistency between implemented behaviour and project documentation.
+
 --------------------------------------------------------------------------------------------------------------------
 
 ## **Setting up, getting started**
